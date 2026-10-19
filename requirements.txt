@@ -1,0 +1,2 @@
+# Tidak ada dependensi eksternal. Hanya butuh Python 3.8+ (Tkinter sudah termasuk).
+# Linux: jika Tkinter belum ada -> sudo apt install python3-tk
